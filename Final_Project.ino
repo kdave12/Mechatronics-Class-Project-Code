@@ -1,8 +1,4 @@
 //generalized wave freq detection with 38.5kHz sampling rate and interrupts
-//Shuming Teoh
-//Code background by Amanda Ghassaei
-//https://www.instructables.com/id/Arduino-Frequency-Detection/
-//12/11/2018
 
 #include <FastLED.h>
 #define LED_PIN     5
