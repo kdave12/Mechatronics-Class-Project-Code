@@ -1,7 +1,4 @@
 //generalized wave freq detection with 38.5kHz sampling rate and interrupts
-//by Amanda Ghassaei
-//https://www.instructables.com/id/Arduino-Frequency-Detection/
-//Sept 2012
 
 /*
  * This program is free software; you can redistribute it and/or modify
@@ -150,3 +147,5 @@ void loop(){
   
   //do other stuff here
 }
+
+//Reference: https://www.instructables.com/id/Arduino-Frequency-Detection/
